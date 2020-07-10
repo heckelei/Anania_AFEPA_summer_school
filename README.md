@@ -18,3 +18,7 @@ Hugo Storm - DHL and University of Bonn, Germany
 ### Links to Day 1 material 
 
 - [Day 1 slides](https://docs.google.com/presentation/d/15Y6nCi04PtstcEYfCIfUaSPZ7Q6boClVDlqK_OEgnUg/edit?usp=sharing)
+- [Day 1 video part I] (https://youtu.be/0dJmWUDkzNY)
+- [Day 1 video part II] (https://youtu.be/_kFbZaCVNlc)
+- [Day 1 video part III] (https://youtu.be/6KofZlteszw)
+- [Day 1 jupyter notebook for lecture and lab] ()
