@@ -11,6 +11,10 @@ Thomas Heckelei - University of Bonn, Germany
 
 Hugo Storm - DHL and University of Bonn, Germany
 
-### Links to course presentations
+### Links to Intro material
 
 - [Intro slides](https://docs.google.com/presentation/d/1Fln8pB8ml-yPhRrQAEcarbtiMeuNEwt_mZZLsE_77WY/edit?usp=sharing)
+
+### Links to Day 1 material 
+
+- [Day 1 slides](https://docs.google.com/presentation/d/15Y6nCi04PtstcEYfCIfUaSPZ7Q6boClVDlqK_OEgnUg/edit?usp=sharing)
