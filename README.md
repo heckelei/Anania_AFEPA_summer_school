@@ -14,6 +14,7 @@ Hugo Storm - DHL and University of Bonn, Germany
 ### Links to Intro material
 
 - [Intro slides](https://docs.google.com/presentation/d/1Fln8pB8ml-yPhRrQAEcarbtiMeuNEwt_mZZLsE_77WY/edit?usp=sharing)
+- [Intro video for days 1, 2, and 4](https://youtu.be/_YOR3B3ADNw)
 
 ### Links to Day 1 material 
 
