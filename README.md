@@ -19,9 +19,9 @@ Hugo Storm - DHL and University of Bonn, Germany
 ### Links to Day 1 material 
 
 - [Day 1 slides](https://docs.google.com/presentation/d/15Y6nCi04PtstcEYfCIfUaSPZ7Q6boClVDlqK_OEgnUg/edit?usp=sharing)
-- [Day 1 video part I](https://youtu.be/0dJmWUDkzNY)
-- [Day 1 video part II](https://youtu.be/_kFbZaCVNlc)
-- [Day 1 video part III](https://youtu.be/6KofZlteszw)
+- [Day 1 video part I - Intro to ML with OLS](https://youtu.be/0dJmWUDkzNY)
+- [Day 1 video part II - Overfitting and train/test split](https://youtu.be/_kFbZaCVNlc)
+- [Day 1 video part III - Penalized Regression](https://youtu.be/6KofZlteszw)
 - [Day 1 jupyter notebook for lecture and lab](https://github.com/heckelei/Anania_AFEPA_summer_school/blob/master/Calabria_Day1.ipynb)
 
 ### Links to Day 2 material 
