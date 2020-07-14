@@ -33,3 +33,4 @@ Hugo Storm - DHL and University of Bonn, Germany
 - [Day 2 video part IV - Visualizing marginal effects](https://youtu.be/agjwrG2m1go)
 - [Day 2 video part V - Shap-values](https://youtu.be/D6M0V1YGQH4)
 - [Day 2 video part VI - Other approaches to interpreting ML Models](https://youtu.be/_CV2DjXEgfw)
+- [Day 2 jupyter notebook for lecture and lab](https://github.com/heckelei/Anania_AFEPA_summer_school/blob/master/Calabria_Day2.ipynb)
