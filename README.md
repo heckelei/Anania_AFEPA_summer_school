@@ -28,7 +28,7 @@ Hugo Storm - DHL and University of Bonn, Germany
 
 - [Day 2 slides](https://docs.google.com/presentation/d/1AB2Adsf0akogIisth58prYRrLXzBYshBkLYvZUqnlhk/edit?usp=sharing)
 - [Day 2 video part I - Intro to trees](https://youtu.be/SbZrIynqytA)
-- [Day 2 video part II - Random Forest and Boosted trees](https://youtu.be/R3BC0DzAoo4)
+- [Day 2 video part II - Random Forest and Boosted trees](https://youtu.be/lD0Gju_MIdA)
 - [Day 2 video part III - Intro to interpreting ML Models](https://youtu.be/NGGad3aM0lw)
 - [Day 2 video part IV - Visualizing marginal effects](https://youtu.be/agjwrG2m1go)
 - [Day 2 video part V - Shap-values](https://youtu.be/D6M0V1YGQH4)
