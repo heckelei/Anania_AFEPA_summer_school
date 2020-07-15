@@ -37,6 +37,7 @@ Hugo Storm - DHL and University of Bonn, Germany
 
 ### Links to Day 4 material 
 
+- [Day 4 slides](https://docs.google.com/presentation/d/1yNAJTWFgzXNF48-Dxe7vO5vQzrAun4B8FXhAk9pygIM/edit?usp=sharing)
 - [Day 4 video part I - Review of causal identification issues](https://youtu.be/rraN7suQYps)
 - [Day 4 video part II - True model selection with LASSO](https://youtu.be/dNTZ-w4-CyE)
 - [Day 4 video part III - Intro to causal identification with ML](https://youtu.be/Vam7F5NCIn4)
