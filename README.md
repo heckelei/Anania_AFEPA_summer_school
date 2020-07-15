@@ -34,3 +34,11 @@ Hugo Storm - DHL and University of Bonn, Germany
 - [Day 2 video part V - Shap-values](https://youtu.be/D6M0V1YGQH4)
 - [Day 2 video part VI - Other approaches to interpreting ML Models](https://youtu.be/_CV2DjXEgfw)
 - [Day 2 jupyter notebook for lecture and lab](https://github.com/heckelei/Anania_AFEPA_summer_school/blob/master/Calabria_Day2.ipynb)
+
+### Links to Day 4 material 
+
+- [Day 4 video part I - Review of causal identification issues](https://youtu.be/rraN7suQYps)
+- [Day 4 video part II - True model selection with LASSO]()
+- [Day 4 video part III - Intro to causal identification with ML](https://youtu.be/Vam7F5NCIn4)
+- [Day 4 video part IV - Counterfactual Simulation, Matching, Causal Forest](https://youtu.be/b1uzoTIYHiU)
+- [Day 4 video part V - Double ML, Panel, Deep IV]()
