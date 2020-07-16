@@ -43,3 +43,5 @@ Hugo Storm - DHL and University of Bonn, Germany
 - [Day 4 video part III - Intro to causal identification with ML](https://youtu.be/Vam7F5NCIn4)
 - [Day 4 video part IV - Counterfactual Simulation, Matching, Causal Forest](https://youtu.be/b1uzoTIYHiU)
 - [Day 4 video part V - Double ML, Panel, Deep IV](https://youtu.be/tWmqwULSPWw)
+- [Day 4 jupyter notebook for lecture and lab](https://github.com/heckelei/Anania_AFEPA_summer_school/blob/master/Calabria_Day4.ipynb)
+
